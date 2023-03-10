@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//spacelabdev.github.io/Exoplanetarium-3D/static/css/main.414951e4.css",
+    "main.js": "//spacelabdev.github.io/Exoplanetarium-3D/static/js/main.c5c45146.js",
+    "static/js/787.195e0cab.chunk.js": "//spacelabdev.github.io/Exoplanetarium-3D/static/js/787.195e0cab.chunk.js",
+    "index.html": "//spacelabdev.github.io/Exoplanetarium-3D/index.html",
+    "main.414951e4.css.map": "//spacelabdev.github.io/Exoplanetarium-3D/static/css/main.414951e4.css.map",
+    "main.c5c45146.js.map": "//spacelabdev.github.io/Exoplanetarium-3D/static/js/main.c5c45146.js.map",
+    "787.195e0cab.chunk.js.map": "//spacelabdev.github.io/Exoplanetarium-3D/static/js/787.195e0cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414951e4.css",
+    "static/js/main.c5c45146.js"
+  ]
+}
